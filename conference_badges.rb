@@ -1,1 +1,5 @@
-# Write your code here.
+badge_maker(name) 
+ name.each do |names|
+   
+
+end 
